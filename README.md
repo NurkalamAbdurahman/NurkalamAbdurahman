@@ -72,9 +72,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=NurkalamAbdurahman&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NurkalamAbdurahman&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="175" alt="stats graph"  />
   <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurkalamAbdurahman&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurkalamAbdurahman&layout=compact&theme=dracula&hide_border=false" height="175" alt="languages graph"  />
 
 
 </div>
