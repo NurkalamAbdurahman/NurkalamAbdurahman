@@ -17,9 +17,6 @@
   🎲 Fun fact: Sometimes I spend more time choosing UI colors than writing the code 😅
 </p>
 
-<img align="right" height="125" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF2NTR4ZGlpbHBzNmN1MmoxbGpkOGJuYmJ6bmNrMmY2bzM0b2MxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yjjDRrfuctDHCtKxzf/giphy.gif"  />
-
-
 ###
 
 <h5 align="left">🛠️ I code with</h5>
@@ -124,3 +121,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
+
+###
+
+<img align="right" height="125" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF2NTR4ZGlpbHBzNmN1MmoxbGpkOGJuYmJ6bmNrMmY2bzM0b2MxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yjjDRrfuctDHCtKxzf/giphy.gif"  />
