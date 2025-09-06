@@ -1,40 +1,49 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+![Header](img/github-header-banner.png)
+<h3 align="left">Hey 👋 What's up?</h3>
+
+#####
+
+<p align="left">My name is <b> Nurkalam Abdurrahman </b> and I'm a <b> Front End Developer </b>, from <b> Indonesia <b> </p>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NurkalamAbdurahman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<h5 align="left">About me</h5>
+
+#####
+
+<p align="left">
+  ✨ Exploring coding since 2022<br>
+  📚 Currently enjoying learning React, Tailwind CSS, and APIs<br>
+  🎯 Goal: Building cool, simple, and useful web applications<br>
+  🎲 Fun fact: Sometimes I spend more time choosing UI colors than writing the code 😅
+</p>
+
+
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhuaml4ZzlxNnM3ODJleXFhNDJrZ3FmZDd5dWk2eWRkZ3lxeW5xeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pr4bCJms2clnHAtTxv/giphy.gif"  />
+<h5 align="left">I code with</h5>
 
-###
+#####
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="react logo"  />
 </div>
 
 ###
 
-<div align="left">
-</div>
+<h5 align="left">Snake Games</h5>
 
-###
-
-<br clear="both">
+#####
 
 <img src="https://raw.githubusercontent.com/NurkalamAbdurahman/NurkalamAbdurahman/output/snake.svg" alt="Snake animation" />
-
-###
