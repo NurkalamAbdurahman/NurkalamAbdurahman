@@ -10,7 +10,6 @@
 <h5 align="left">About me</h5>
 
 #####
-
 <p align="left">
   ✨ Exploring coding since 2022<br>
   📚 Currently enjoying learning React, Tailwind CSS, and APIs<br>
@@ -18,6 +17,7 @@
   🎲 Fun fact: Sometimes I spend more time choosing UI colors than writing the code 😅
 </p>
 
+<img align="right" height="125" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF2NTR4ZGlpbHBzNmN1MmoxbGpkOGJuYmJ6bmNrMmY2bzM0b2MxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yjjDRrfuctDHCtKxzf/giphy.gif"  />
 
 
 ###
