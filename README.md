@@ -7,7 +7,7 @@
 
 ###
 
-<h5 align="left">About me</h5>
+<h5 align="left">👨‍💻 Who Am I?</h5>
 
 #####
 <p align="left">
@@ -22,7 +22,7 @@
 
 ###
 
-<h5 align="left">I code with</h5>
+<h5 align="left">🛠️ I code with</h5>
 
 #####
 
@@ -42,8 +42,82 @@
 
 ###
 
-<h5 align="left">Snake Games</h5>
+<h5 align="left">🚀 Featured Projects</h5>
+
+
+#####
+
+<ul align="left">
+  <li>
+    <b>Task Management App</b> – A Trello-like application with drag-and-drop, workspace & member management, and API integration.<br>
+    🔗 <a href="https://github.com/NurkalamAbdurahman/task-management-app">Repository</a>
+  </li>
+  <br>
+  <li>
+    <b>Portfolio Website</b> – A personal website built with React + Tailwind CSS to showcase my skills, CV, and projects.<br>
+    🔗 <a href="https://github.com/NurkalamAbdurahman/portfolio">Repository</a>
+  </li>
+  <br>
+  <li>
+    <b>Student Management System</b> – Laravel-based system for managing student grades, attendance, and reports.<br>
+    🔗 <a href="https://github.com/NurkalamAbdurahman/student-management">Repository</a>
+  </li>
+</ul>
+
+###
+
+<h5 align="left">📊 GitHub Stats</h5>
+
+#####
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=NurkalamAbdurahman&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="stats graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurkalamAbdurahman&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+
+</div>
+
+
+
+###
+
+<h5 align="left">🐍 Contribution Snake</h5>
 
 #####
 
 <img src="https://raw.githubusercontent.com/NurkalamAbdurahman/NurkalamAbdurahman/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h5 align="left">🎧 What I’m Listening To</h5>
+
+
+#####
+
+<div align="left">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31a5sh4nkggz4nebn3tt2z67rkfu&count=3" alt="Spotify recently played" />
+</div>
+
+###
+
+<h5 align="left">🌍 Connect with Me</h5>
+
+
+#####
+
+<div align="left">
+  <a href="mailto:nurkalamaz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/nurkalam-abdurrahman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/NurkalamAbdurahman" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/nurkalamaz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
