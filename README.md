@@ -47,17 +47,7 @@
 <ul align="left">
   <li>
     <b>Task Management App</b> – A Trello-like application with drag-and-drop, workspace & member management, and API integration.<br>
-    🔗 <a href="https://github.com/NurkalamAbdurahman/task-management-app">Repository</a>
-  </li>
-  <br>
-  <li>
-    <b>Portfolio Website</b> – A personal website built with React + Tailwind CSS to showcase my skills, CV, and projects.<br>
-    🔗 <a href="https://github.com/NurkalamAbdurahman/portfolio">Repository</a>
-  </li>
-  <br>
-  <li>
-    <b>Student Management System</b> – Laravel-based system for managing student grades, attendance, and reports.<br>
-    🔗 <a href="https://github.com/NurkalamAbdurahman/student-management">Repository</a>
+    🔗 <a href="https://github.com/NurkalamAbdurahman/GoTask-FE">Repository</a>
   </li>
 </ul>
 
@@ -69,9 +59,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=NurkalamAbdurahman&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NurkalamAbdurahman&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="175" alt="stats graph"  />
   <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurkalamAbdurahman&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurkalamAbdurahman&layout=compact&theme=dracula&hide_border=false" height="175" alt="languages graph"  />
 
 
 </div>
