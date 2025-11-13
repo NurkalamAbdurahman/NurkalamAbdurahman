@@ -59,11 +59,33 @@
 <h5 align="left">🚀 Featured Projects</h5>
 
 <ul align="left">
+
   <li>
-    <b>Task Management App</b> – A Trello-like application with drag-and-drop, workspace & member management, and API integration.<br>
-    🔗 <a href="https://github.com/NurkalamAbdurahman/GoTask-FE">Repository</a>
+    <b>RT/RW Gimersia Website</b><br>
+    A community web platform prototype for RT/RW Gimersia neighborhood information and resident management.<br>
+    🔗 <a href="https://github.com/NurkalamAbdurrahman/rt-rw-gimersia">Repository</a>
+    🌐 <a href="https://rafli1127.itch.io/echoes-of-the-lost-dungeon">Live Demo</a>
+    
   </li>
+  <br>
+
+  <li>
+    <b>GoTask – Task Management App</b><br>
+    A Trello-like application with drag-and-drop boards, workspace & member management, and API integration.<br>
+    🔗 <a href="https://github.com/NurkalamAbdurrahman/GoTask-FE">Repository</a> • 
+    🌐 <a href="https://go-task-fe-9hiv-3u7ott389-nurkalamabdurrahmans-projects.vercel.app/">Live Demo</a>
+  </li>
+  <br>
+
+  <li>
+    <b>Website Monyet – IT Club Final Project</b><br>
+    A slicing project converting a web design into responsive HTML & Tailwind CSS layout.<br>
+    🔗 <a href="https://github.com/NurkalamAbdurrahman/Website-Monyet">Repository</a> • 
+    🌐 <a href="https://website-monyet-ngr54zw7l-nurkalamabdurrahmans-projects.vercel.app/">Live Demo</a>
+  </li>
+
 </ul>
+
 
 ---
 
