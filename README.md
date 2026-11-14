@@ -1,134 +1,105 @@
 ![Header](img/github-header-banner.png)
 
-<h3 align="left">Hey 👋 What's up?</h3>
+<h3 align="left">Hello, I'm Nurkalam Abdurrahman</h3>
 
 <p align="left">
-  My name is <b>Nurkalam Abdurrahman</b> and I'm a <b>Front End Developer</b> from <b>Indonesia</b>.
+  A <strong>Front-End Developer</strong> from Indonesia with an interest in building responsive, user-friendly, and functional web applications.
 </p>
 
 ---
 
-<h5 align="left">👨‍💻 Who Am I?</h5>
+### About Me
 
-<p align="left">
-  ✨ Exploring coding since 2022<br>
-  📚 Currently enjoying learning React, Tailwind CSS, and APIs<br>
-  🎯 Goal: Building cool, simple, and useful web applications<br>
-  🎲 Fun fact: Sometimes I spend more time choosing UI colors than writing the code 😅
-</p>
+- Exploring web development since 2022.
+- Focused on modern front-end development and user interface implementation.
+- Currently working with React, Tailwind CSS, and REST API integration.
+- Interested in building clean, maintainable, and accessible web applications.
+- Continuously learning and improving through hands-on projects.
 
----
+### Currently Learning
 
-<h5 align="left">🌱 Currently Learning</h5>
+- Developing modern web applications with React.
+- Building responsive interfaces using Tailwind CSS.
+- Integrating REST APIs and managing application state.
+- Improving front-end architecture and development practices.
 
-<p align="left">
-  🚀 Deepening my knowledge in React and modern frontend ecosystems<br>
-  🎨 Improving design-to-code workflow with Tailwind CSS<br>
-  🔗 Practicing REST API integration and state management
-</p>
+### Development Philosophy
 
----
+> "Clean and simple code creates powerful applications."
 
-<h5 align="left">💡 My Philosophy in Coding</h5>
+I believe good software is not only about functionality, but also about maintainability, usability, and thoughtful design. My goal is to create applications that are intuitive for users and easy for developers to understand and maintain.
 
-<p align="left">
-  "Clean and simple code creates powerful applications."<br>
-  I believe coding is not just about solving problems, but also about writing maintainable and elegant solutions that others can easily understand.
-</p>
-
----
-
-<h5 align="left">🛠️ I Code With</h5>
+### Tech Stack
 
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="react logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" alt="React" />
 </div>
 
 ---
 
-<h5 align="left">🚀 Featured Projects</h5>
+### Featured Projects
 
-<ul align="left">
+**1. Echoes of the Lost Dungeon**
 
-  <li>
-    <b>RT/RW Gimersia Website</b><br>
-    A community web platform prototype for RT/RW Gimersia neighborhood information and resident management.<br>
-    🔗 <a href="https://github.com/NurkalamAbdurahman/rt-rw-gimersia.git">Repository</a>
-    🌐 <a href="https://rafli1127.itch.io/echoes-of-the-lost-dungeon">Live Demo</a>
-    
-  </li>
-  <br>
+A top-down pixel art adventure game developed for the Gimersia competition using Godot Engine. The game features dungeon exploration, combat, and interactive gameplay mechanics.
 
-  <li>
-    <b>GoTask – Task Management App</b><br>
-    A Trello-like application with drag-and-drop boards, workspace & member management, and API integration.<br>
-    🔗 <a href="https://github.com/NurkalamAbdurahman/GoTask-FE.git">Repository</a> • 
-    🌐 <a href="https://go-task-fe-9hiv-3u7ott389-nurkalamabdurahmans-projects.vercel.app">Live Demo</a>
-  </li>
-  <br>
+- [Repository](https://github.com/NurkalamAbdurahman/rt-rw-gimersia)
+- [Play Demo](https://rafli1127.itch.io/echoes-of-the-lost-dungeon)
 
-  <li>
-    <b>Website Monyet – IT Club Final Project</b><br>
-    A slicing project converting a web design into responsive HTML & Tailwind CSS layout.<br>
-    🔗 <a href="https://github.com/NurkalamAbdurahman/Website-Monyet.git">Repository</a> • 
-    🌐 <a href="https://website-monyet.vercel.app">Live Demo</a>
-  </li>
+**2. GoTask — Task Management Application**
 
-</ul>
+A task and workspace management application inspired by Trello, featuring drag-and-drop boards, workspace management, team members, and API integration.
 
+- [Repository](https://github.com/NurkalamAbdurahman/gotask)
+- [Live Demo](https://go-task-fe-9hiv-3u7ott389-nurkalamabdurahmans-projects.vercel.app/)
+
+**3. Responsive Website Slicing**
+
+A responsive website implementation developed as an IT Club final project, focusing on translating a web design into a functional layout using HTML, CSS, and Tailwind CSS.
+
+- [Repository](https://github.com/NurkalamAbdurahman/responsive-website-slicing)
+- [Live Demo](https://website-monyet-nurkalamabdurahmans-projects.vercel.app/)
 
 ---
 
-<h5 align="left">📊 GitHub Stats</h5>
+### GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NurkalamAbdurahman&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="175" alt="stats graph"  />
-  <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurkalamAbdurahman&layout=compact&theme=dracula&hide_border=false" height="175" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NurkalamAbdurahman&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurkalamAbdurahman&layout=compact&theme=dracula&hide_border=true" height="165" alt="Most used languages" />
 </div>
 
 ---
 
-<h5 align="left">🐍 Contribution Snake</h5>
+### Contribution Activity
 
-<img src="https://raw.githubusercontent.com/NurkalamAbdurahman/NurkalamAbdurahman/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NurkalamAbdurahman/NurkalamAbdurahman/output/snake.svg" alt="GitHub contribution snake animation" />
+</p>
 
 ---
 
-<h5 align="left">🎧 What I’m Listening To</h5>
+### Connect With Me
 
 <div align="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31a5sh4nkggz4nebn3tt2z67rkfu&count=3" alt="Spotify recently played" />
-</div>
-
----
-
-<h5 align="left">🌍 Connect with Me</h5>
-
-<div align="left">
-  <a href="mailto:nurkalamaz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:nurkalamaz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img width="12" />
-  <a href="https://linkedin.com/in/nurkalam-abdurrahman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/nurkalam-abdurrahman">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img width="12" />
-  <a href="https://www.instagram.com/nurkalamaz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.instagram.com/nurkalamaz">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
 ---
 
-<img align="right" height="125" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF2NTR4ZGlpbHBzNmN1MmoxbGpkOGJuYmJ6bmNrMmY2bzM0b2MxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yjjDRrfuctDHCtKxzf/giphy.gif"  />
+<p align="center">
+  <i>Always learning, building, and improving.</i>
+</p>
