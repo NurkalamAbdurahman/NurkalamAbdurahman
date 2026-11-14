@@ -1,5 +1,3 @@
-![Header](img/github-header-banner.png)
-
 <h2 align="left">Nurkalam Abdurrahman</h2>
 
 <p align="left">
