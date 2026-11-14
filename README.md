@@ -30,23 +30,28 @@
 
 ### Featured Projects
 
+### Featured Projects
+
+**Mantou — UMKM Management System**
+
+A web-based business management application designed to help small businesses manage product inventory, record transactions, monitor financial reports, and gain business insights. Developed as part of the GTNIC 2026 competition.
+
+- [Repository](https://github.com/Wandiapriansyah/Mantou)
+- [Live Website](https://mantou.rtrwstudio.online)
+
 **GoTask — Task Management Application**
 
 A task and workspace management application inspired by Trello, featuring drag-and-drop boards, workspace organization, member management, and API integration.
 
-[Repository](https://github.com/NurkalamAbdurahman/gotask) · [Live Demo](https://go-task-fe-9hiv-3u7ott389-nurkalamabdurahmans-projects.vercel.app/)
+- [Repository](https://github.com/NurkalamAbdurahman/gotask)
+- [Live Demo](https://go-task-fe-9hiv-3u7ott389-nurkalamabdurahmans-projects.vercel.app/)
 
 **Responsive Website Slicing**
 
 A responsive website implementation developed as an IT Club final project, focusing on translating web designs into functional layouts using HTML, CSS, and Tailwind CSS.
 
-[Repository](https://github.com/NurkalamAbdurahman/responsive-website-slicing) · [Live Demo](https://website-monyet-nurkalamabdurahmans-projects.vercel.app/)
-
-**UMKM Management Web Application**
-
-A web application prototype designed to support small business management through product inventory, manual transaction records, financial reporting, and business monitoring.
-
-[GitHub Profile](https://github.com/NurkalamAbdurahman)
+- [Repository](https://github.com/NurkalamAbdurahman/responsive-website-slicing)
+- [Live Demo](https://website-monyet-nurkalamabdurahmans-projects.vercel.app/)
 
 ---
 
