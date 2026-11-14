@@ -1,11 +1,13 @@
+![Header](img/github-header-banner.png)
+
 <h2 align="left">Nurkalam Abdurrahman</h2>
 
 <p align="left">
-  <strong>Front-End Developer | Indonesia</strong>
+  <strong>Full-Stack Developer | Indonesia</strong>
 </p>
 
 <p align="left">
-  I build responsive and user-friendly web applications with a focus on clean interfaces, practical functionality, and maintainable code. I enjoy turning ideas and designs into accessible digital experiences while continuously improving my development skills.
+  I build responsive and functional web applications, working across both frontend and backend development. I enjoy creating intuitive user interfaces, developing application logic, integrating APIs, and building maintainable web solutions.
 </p>
 
 ---
@@ -13,11 +15,14 @@
 ### About Me
 
 - Exploring web development since 2022.
-- Focused on modern front-end development.
-- Interested in responsive design and user experience.
-- Enjoy building practical applications through hands-on projects.
+- Interested in both frontend and backend development.
+- Experienced with modern JavaScript technologies and PHP-based web development.
+- Focused on building responsive, functional, and maintainable applications.
+- Continuously improving through hands-on projects and collaborative development.
 
 ### Technologies & Tools
+
+**Frontend**
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5" />
@@ -28,7 +33,12 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" alt="React" />
 </div>
 
-### Featured Projects
+**Backend**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="28" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="28" alt="Laravel" />
+</div>
 
 ### Featured Projects
 
@@ -57,10 +67,10 @@ A responsive website implementation developed as an IT Club final project, focus
 
 ### Currently Learning
 
-- React and modern front-end development.
-- REST API integration.
-- Application state management.
-- Improving component architecture and code maintainability.
+- Advanced React development and component architecture.
+- Laravel application development and backend architecture.
+- REST API development and integration.
+- Database management and application state management.
 
 ---
 
@@ -81,5 +91,5 @@ A responsive website implementation developed as an IT Club final project, focus
 ---
 
 <p align="left">
-  <i>Building, learning, and improving through every project.</i>
+  <i>Building end-to-end web solutions through continuous learning and development.</i>
 </p>
